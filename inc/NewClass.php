@@ -1,7 +1,7 @@
 <?php 
     class NewClass {
         //Properties and methods goes here
-        public $info = "This is a new class!";
+        public $info = "This is a new class";
     }
 
     $object = new NewClass;
