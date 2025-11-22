@@ -1,6 +1,6 @@
 <?php 
     class NewClass {
-        //Properties and methods goes here
+        //Properties and method
         public $info = "This is a new class";
     }
 
