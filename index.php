@@ -1,5 +1,6 @@
 <?php
-      declare(strict_types=1)
+      declare(strict_types=1);
+      include 'inc/autoload.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
